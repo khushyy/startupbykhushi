@@ -1,0 +1,67 @@
+{
+  margin:0; 
+  padding:0; 
+  }
+  header{
+    width:100%;height:100vh;
+    background-image: url('E:/Html files/taj.jpeg');
+    background-size:cover;
+  }
+  nav {
+    width:100%;height:15vh;
+    background: black;
+    color:white; display:flex; justify-content:space-between;
+    align-items:center;
+  }
+  nav .logo{
+    width:26%; text-align:center;
+  }
+  nav .menu{
+    width:40%; 
+    display:flex; justify-content:space-around;
+  }
+  nav .menu a{
+    width:25%;
+    color:white; text-decoration:none;
+    font-weight:bold;
+  }
+  main{
+    width:100%;
+    height:85vh;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    text-align:center;
+  }
+  section{
+  }
+  section h3{
+    font-size:35px; font-weight:200; letter-spacing:2px;
+  }
+  section h1{
+    font-size:55px;
+    font-weight:700;
+  }
+  section p{
+    font-size:20px;
+    margin-bottom:25px;
+  }
+  section a{
+    font-size:15px;
+    font-weight:200;
+    letter-spacing:1px;
+    padding:12px 30px;
+    border-radius:4px;
+    text-decoration:none;
+    
+  }
+  
+  section .button2{
+    background:blue;
+    color:white;
+  }
+  
+    </style>
+    </html>
+  
+  
